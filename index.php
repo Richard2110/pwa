@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>meu pwa revisao
-        
-    </h1>
+    <h1>meu pwa revisao </h1>
+    <?php echo "seila" ?> 
 </body>
 </html>
